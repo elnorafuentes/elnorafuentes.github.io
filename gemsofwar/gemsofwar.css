@@ -1,0 +1,73 @@
+
+body{
+	font-family: Cinzel;
+}
+
+#kingdom_list .description{
+	text-shadow: 1px 3px 5px black,
+					0px 3px 1px black,
+					0px 2px 1px black;
+}
+
+
+.kingdom-main{
+	background-size: cover;
+	border: 4px solid;
+	border-image: repeating-linear-gradient(45deg, black, silver, gold, silver, black) 4;
+	margin-top: 5px;
+	padding: 2px;
+}
+
+.traitstone{
+	display:block;
+	margin: auto;
+}
+
+
+
+/*
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+Bootstrap 4 breakpoints
+https://bootstrapcreative.com/can-adjust-text-size-bootstrap-responsive-design/
+*/
+
+/*Extra Small devices ()*/
+img{
+	width: 50px;
+}
+
+/* Small devices (landscape phones, 544px and up) */
+@media (min-width: 544px) {
+	img {width:50px;} /*1rem = 16px*/
+	
+	p {
+		font-size: 1em;
+	}
+}
+ 
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (min-width: 768px) {
+	img {width:70px;} /*1rem = 16px*/
+
+	p {
+		font-size: 1em;
+	}
+}
+ 
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+	img {width:100px;} /*1rem = 16px*/
+
+	p{
+		font-size: 1.5em;
+	}}
+ 
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+	img {width:100px;} /*1rem = 16px*/
+
+	p{
+		font-size: 2em;
+	}}
+
+

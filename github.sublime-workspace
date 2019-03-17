@@ -1,0 +1,420 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"getN",
+				"getNumWheels"
+			],
+			[
+				"lotter",
+				"lotteryNumsVect"
+			],
+			[
+				"lott",
+				"lotteryNumsVect"
+			],
+			[
+				"lotteryN",
+				"lotteryNumsInt"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1155,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "about.html",
+			"settings":
+			{
+				"buffer_size": 2188,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/index.css",
+			"settings":
+			{
+				"buffer_size": 777,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Elnora/Documents/GitHub/elnorafuentes.github.io"
+	],
+	"file_history":
+	[
+		"/Users/Elnora/Desktop/WebDev/section12/index.html",
+		"/Users/Elnora/Desktop/WebDev/section12/scope.html",
+		"/Users/Elnora/Desktop/WebDev/section12/higherOrder.html",
+		"/Users/Elnora/Desktop/WebDev/section12/problemSet.js",
+		"/Users/Elnora/Desktop/WebDev/section12/scope.js",
+		"/Users/Elnora/Desktop/WebDev/section11/controlflow.html",
+		"/Users/Elnora/Desktop/WebDev/section11/guess.html",
+		"/Users/Elnora/Desktop/WebDev/section11/loops.html",
+		"/Users/Elnora/Desktop/WebDev/section11/forLoop.html",
+		"/Users/Elnora/Desktop/WebDev/section11/forloop.js",
+		"/Users/Elnora/Desktop/WebDev/section10/primitives.html",
+		"/Users/Elnora/Desktop/WebDev/section11/anooy.js",
+		"/Users/Elnora/Desktop/WebDev/section11/loops.js",
+		"/Users/Elnora/Desktop/WebDev/section11/guess.js",
+		"/Users/Elnora/Desktop/WebDev/section11/age.js",
+		"/Users/Elnora/Desktop/WebDev/section10/js/exercise1.js",
+		"/Users/Elnora/Desktop/WebDev/section10/js/script.js",
+		"/Users/Elnora/Desktop/WebDev/section10/jsExercise.html",
+		"/Users/Elnora/Desktop/WebDev/section10/withJS.html",
+		"/Users/Elnora/Desktop/WebDev/section9/project.html",
+		"/Users/Elnora/Desktop/WebDev/section9/museum.html",
+		"/Users/Elnora/Desktop/WebDev/home.html",
+		"/Users/Elnora/Desktop/WebDev/fontAwesomes.html",
+		"/Users/Elnora/Desktop/WebDev/section8/template.html",
+		"/Users/Elnora/Desktop/WebDev/section9/museum.css",
+		"/Users/Elnora/Desktop/WebDev/section9/flex_and_grid.html",
+		"/Users/Elnora/Desktop/WebDev/section8/navbars.html",
+		"/Users/Elnora/Desktop/WebDev/section8/display.html",
+		"/Users/Elnora/Desktop/WebDev/section9/flex.html",
+		"/Users/Elnora/Desktop/WebDev/section9/flexPart2.html",
+		"/Users/Elnora/Desktop/WebDev/section9/grid.html",
+		"/Users/Elnora/Desktop/WebDev/section9/project",
+		"/Users/Elnora/Desktop/WebDev/section8/breakpoints.html",
+		"/Users/Elnora/Desktop/WebDev/section8/spacing.html",
+		"/Users/Elnora/Desktop/WebDev/section8/typography.html",
+		"/Users/Elnora/Desktop/WebDev/section8/colors.html",
+		"/Users/Elnora/Desktop/WebDev/section8/one.html",
+		"/Users/Elnora/Desktop/WebDev/css/home.css",
+		"/Users/Elnora/Desktop/WebDev/blog.html",
+		"/Users/Elnora/Desktop/WebDev/section8/bootstraphistory.html",
+		"/Users/Elnora/Desktop/WebDev/section7/index.html",
+		"/Users/Elnora/Desktop/WebDev/section7/css/index.css",
+		"/Users/Elnora/Desktop/WebDev/section7/gallery.html",
+		"/Users/Elnora/Desktop/WebDev/section7/grid.html",
+		"/Users/Elnora/Desktop/WebDev/section7/css/gallery.css",
+		"/Users/Elnora/Desktop/WebDev/section7/navbars.html",
+		"/Users/Elnora/Desktop/WebDev/section7/font.html",
+		"/Users/Elnora/Downloads/02_Installing_Bootstrap/basics.html",
+		"/Users/Elnora/Desktop/WebDev/section7/bootstrap.html",
+		"/Users/Elnora/Desktop/WebDev/bootstrap-3.3.7-dist/css/bootstrap.css",
+		"/Users/Elnora/Downloads/02_Installing_Bootstrap/bootstrap.css",
+		"/Users/Elnora/Desktop/WebDev/css/blog.css",
+		"/Users/Elnora/Desktop/WebDev/imageGallery.html",
+		"/Users/Elnora/Desktop/WebDev/css/imageGallery.css",
+		"/Users/Elnora/Downloads/07_ImageBlog1/imageLinks.html",
+		"/Users/Elnora/Desktop/WebDev/board.html",
+		"/Users/Elnora/Desktop/WebDev/css/board.css",
+		"/Users/Elnora/Desktop/WebDev/box.html",
+		"/Users/Elnora/Desktop/WebDev/css/boxstyle.css",
+		"/Users/Elnora/Desktop/WebDev/tictactoe.html",
+		"/Users/Elnora/Desktop/WebDev/css/board.html",
+		"/Users/Elnora/Desktop/WebDev/boxstyle.css",
+		"/Users/Elnora/Desktop/WebDev/fonts.html",
+		"/Users/Elnora/Desktop/WebDev/styles.css",
+		"/Users/Elnora/Desktop/WebDev/fonts_update.html",
+		"/Users/Elnora/Desktop/WebDev/specificity.html",
+		"/Users/Elnora/Desktop/WebDev/selectorsExercise.html",
+		"/Users/Elnora/Desktop/WebDev/selectorsExercise.css",
+		"/Users/Elnora/Desktop/WebDev/specificity.css",
+		"/Users/Elnora/Desktop/WebDev/cssExercise.html",
+		"/Users/Elnora/Desktop/WebDev/selectors.css",
+		"/Users/Elnora/Desktop/WebDev/selector.html",
+		"/Users/Elnora/Desktop/WebDev/todo.css",
+		"/Users/Elnora/Desktop/WebDev/todo.html",
+		"/Users/Elnora/Desktop/WebDev/aboutme2.html",
+		"/Users/Elnora/Desktop/WebDev/aboutme.css",
+		"/Users/Elnora/Desktop/WebDev/aboutme.html",
+		"/Users/Elnora/Desktop/WebDev/form.html",
+		"/Users/Elnora/Desktop/WebDev/forms-exercise.html",
+		"/Users/Elnora/Desktop/WebDev/inputs.html",
+		"/Users/Elnora/Desktop/WebDev/quiz2.html",
+		"/Users/Elnora/Desktop/WebDev/quiz1.html",
+		"/Users/Elnora/Desktop/WebDev/tables_and_forms.html",
+		"/Users/Elnora/Desktop/WebDev/pokemon.html",
+		"/Users/Elnora/Desktop/Screen Shot 2018-12-16 at 2.57.49 PM.png",
+		"/Users/Elnora/Desktop/PracticeMaybe/Tutorial/main1.cpp",
+		"/Users/Elnora/Desktop/PracticeMaybe/Tutorial/main_tut.cpp",
+		"/Users/Elnora/Desktop/PracticeMaybe/main8.cpp",
+		"/Users/Elnora/Desktop/PracticeMaybe/main_tut.cpp",
+		"/Users/Elnora/Desktop/PracticeMaybe/main7.cpp",
+		"/Users/Elnora/Desktop/PracticeMaybe/main6.cpp",
+		"/Users/Elnora/Desktop/PracticeMaybe/main5.cpp",
+		"/Users/Elnora/Desktop/PracticeMaybe/main4.cpp",
+		"/Users/Elnora/Desktop/PracticeMaybe/main3.cpp",
+		"/Users/Elnora/Desktop/PracticeMaybe/main2.cpp",
+		"/Users/Elnora/Desktop/PracticeMaybe/main.cpp",
+		"/Users/Elnora/Desktop/School/FA09/CSC2312/Programs/Homework/pa3/ltr_freq_pair.h",
+		"/Users/Elnora/Desktop/School/FA09/CSC2312/Programs/Homework/pa3/letter_frequencies.h",
+		"/Users/Elnora/Desktop/School/FA09/CSC2312/Programs/Homework/pa3/letter_frequencies.cpp",
+		"/Users/Elnora/Desktop/School/FA09/CSC2312/Programs/Homework/pa3/frequency.h",
+		"/Users/Elnora/Desktop/School/FA09/CSC2312/Programs/Homework/pa3/frequency.cpp",
+		"/Users/Elnora/Desktop/School/FA09/CSC2312/Programs/Homework/pa3/dArray.h",
+		"/Users/Elnora/Desktop/School/FA09/CSC2312/Programs/Homework/pa3/dArray.cpp",
+		"/Users/Elnora/Desktop/School/FA09/CSC2312/Programs/Homework/pa3/main.cpp",
+		"/Users/Elnora/Desktop/School/FA09/CSC2312/Programs/Homework/pa1/pa1functions.h",
+		"/Users/Elnora/Desktop/School/FA09/CSC2312/Programs/Homework/pa1/pa1functions.cpp",
+		"/Users/Elnora/Desktop/School/FA09/CSC2312/Programs/Homework/pa1/pa1.cpp",
+		"/Users/Elnora/Desktop/School/Fall 2010/CSC 3320 - Advanced/pa1/pa1functiontems.tem",
+		"/Users/Elnora/Desktop/School/Fall 2010/CSC 3320 - Advanced/pa1/pa1functiontems.h",
+		"/Users/Elnora/Desktop/School/Fall 2010/CSC 3320 - Advanced/pa1/pa1functions.h",
+		"/Users/Elnora/Desktop/School/Fall 2010/CSC 3320 - Advanced/pa1/pa1functions.cpp",
+		"/Users/Elnora/Desktop/School/Fall 2010/CSC 3320 - Advanced/pa1/pa1.cpp"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/Elnora/Documents/GitHub/elnorafuentes.github.io"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								612,
+								612
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1022,
+								804
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/index.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 777,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68,
+								68
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
