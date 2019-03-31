@@ -1,7 +1,11 @@
 
 /*Change linkedin and git logos to purple*/
-.fab{
+.fa-icon{
 	color: indigo;
+}
+
+.blog-img{
+	max-width: 50%;
 }
 
 
