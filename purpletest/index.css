@@ -1,0 +1,91 @@
+
+
+body{
+	font-family: 'Playfair Display', serif;
+	font-size: 2em;
+	background-image: url("purple_bubbles.png");
+	background-color: indigo;
+	color: #D3D3D3;
+	text-shadow: 0px 4px 3px indigo,
+				0px 15px 20px #505050;
+				/*x-offset, y-offset, blur radius, color*/
+}
+
+#elnora{
+	font-size: 4rem;
+}
+
+a{
+	color: white;
+	border-style: solid;
+}
+
+a:hover{
+	color: #808080;
+	text-decoration: none;
+}
+
+
+.title{
+  position: absolute;
+  top: 40%;
+  left: 10%;
+}
+
+.enter{
+  position: absolute;
+  top: 45%;
+  left: 40%;
+}
+
+.motto{
+  position: absolute;
+  top: 50%;
+  left: 10%
+}
+
+.bubble1 {
+	top: 45%;	
+  	left: 15%;
+	transform: scale(0.7);
+}
+
+.bubble2{
+	top: 0;	
+	left: 0;
+	-webkit-transform: scale(0.5);
+	-moz-transform: scale(0.5);
+	transform: scale(0.5);
+}
+
+.bubble3{
+	top: 30%;
+	left: 0;
+	transform: scale(0.4);
+}
+
+.bubble4{
+	top: 20%;
+	left: 40%;
+	transform: scale(0.45);
+}
+
+.bubble5{
+	top: 60%;
+	left: 10%;
+	transform: scale(0.2);
+}
+
+/* OBJECTS */
+
+.bubble {
+	border-radius: 50%;
+	box-shadow: 0 20px 30px black, inset 0px 10px 30px 5px rgba(255, 255, 255, 1);
+  	height: 400px;
+	position: absolute;
+	width: 400px;
+}
+
+
+/*Bubbles idea from https://codepen.io/Mark_Bowley/pen/mEtqj*/
+
